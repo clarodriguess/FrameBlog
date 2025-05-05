@@ -1,12 +1,9 @@
-# FrameBlog
-
-Esse repositório tem como principal objetivo guardar os códigos das aulas práticas da disciplina de Framework para aprimorar suas habilidades em vários tópicos, desenvolvendo a implementação de API com controle de autenticação e autorização, também com mecanismos de mensageria. Além de conhecer sobre o uso de cache, recursos de balanceamento de APIs, processo de falha e exceções em APIs e o consumo de APIs externas dentre outros conceitos.
+# Projeto Blog API
 
 ## 💻 Projeto 
+Projeto desenvolvido para a criação de uma API de blog com funcionalidades completas de CRUD (Create, Read, Update, Delete). A aplicação permite o gerenciamento de usuários, postagens, comentários e tags, com controle de autenticação e autorização.
 
-Criação de um blog onde existem usuários administradores ou usuários comuns. <br>
-Uma postagem pode ter vários comentários e tags. Um usuário poderá ter várias postagens e também vários comentários. 
-Dentre outros pequenos detalhes. 
+O sistema contempla dois tipos de usuários: administradores e usuários comuns. Usuários podem criar postagens, adicionar comentários e associar tags. Cada postagem pode conter diversos comentários e várias tags, refletindo uma estrutura flexível e escalável.
 
 ### Diagrama de entidade-relacionamento do projeto
 <img src="https://github.com/clarodriguess/FrameBlog/blob/main/relacaoEntidade-frameblog.png" width=50% height=50%>
