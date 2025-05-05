@@ -9,14 +9,14 @@ Uma postagem pode ter vários comentários e tags. Um usuário poderá ter vári
 Dentre outros pequenos detalhes. 
 
 ### Diagrama de entidade-relacionamento do projeto
-<img src="" width=50% height=50%>
+<img src="https://github.com/clarodriguess/FrameBlog/blob/main/relacaoEntidade-frameblog.png" width=50% height=50%>
 
 ### Ferramentas utilizadas
-Java 20
-IntelliJ IDEA 2024.2.4 (Community Edition)
-Spring
-MySQL Server
-MySQL Workbench
-Postman
+- Java 20
+- IntelliJ IDEA 2024.2.4 (Community Edition)
+- Spring
+- MySQL Server
+- MySQL Workbench
+- Postman
 
 
